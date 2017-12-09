@@ -1,0 +1,2 @@
+cd /d "C:\Users\Administrator\Documents\Code Bank\TestCleepCamProject\TestCleepCamProject" &msbuild "TestCleepCamProject.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform=x64
+exit %errorlevel% 
